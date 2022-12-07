@@ -4,7 +4,7 @@
 
     <string-array name="medication_types">
         <item>Insulin</item>
-        <item>Oral Medication 1</item>
+        <item>Oral Medication</item>
         <item>Injectable Medication</item>
         <item>Other Medication</item>
     </string-array>
