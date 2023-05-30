@@ -1,1 +1,0 @@
-Dies ist eine Testdatei für die Automatisierung mit Git mit TE mit wenigen Änderungen
