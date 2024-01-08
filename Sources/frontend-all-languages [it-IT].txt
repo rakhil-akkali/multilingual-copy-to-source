@@ -1,1 +1,0 @@
-Questo è un file di test per l'automazione con Git per C2S

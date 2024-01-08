@@ -1,1 +1,0 @@
-Il s'agit d'un fichier de test pour Automation avec Git C2S
