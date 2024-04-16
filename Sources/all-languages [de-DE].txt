@@ -1,0 +1,1 @@
+Dies ist eine Testdatei für Automatisierung mit Git C2S, die am 16. April erstellt wurde
